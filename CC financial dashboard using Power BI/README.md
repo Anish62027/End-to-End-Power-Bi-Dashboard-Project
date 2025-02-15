@@ -71,7 +71,7 @@ We welcome contributions! Feel free to open an issue, fork the repo, or submit a
 
 ## 📧 Contact
 📌 **GitHub:** [@Anish62027](https://github.com/Anish62027)  
-📌 **LinkedIn:** [Your LinkedIn Profile](#)  
+📌 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/anish-kumar-32a701213/)  
 📌 **Email:** [Your Email](#)  
 
 ---
