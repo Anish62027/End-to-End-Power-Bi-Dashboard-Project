@@ -29,7 +29,8 @@ This repository contains an end-to-end Power BI Dashboard project for Zomato. Th
 
 ## Screenshots
 Below are some screenshots of the dashboard:
-![Dashboard Preview](Zomato Dashboard_page-0004.jpg)
+![Dashboard Preview](Zomato%20Dashboard/Zomato%20Dashboard_page-0001.jpg)
+
 
 ## Contact
 For any queries, feel free to reach out:
