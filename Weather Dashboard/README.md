@@ -206,6 +206,9 @@ You now have a fully functional **live weather and AQI dashboard** in Power BI p
 
 ![Weather Dashboard Preview](https://github.com/Anish62027/End-to-End-Power-Bi-Dashboard-Project/blob/main/Weather%20Dashboard/WhatsApp%20Image%202025-06-24%20at%2019.41.54_8bd15369.jpg?raw=true)
 
+![Weather Dashboard Preview](https://github.com/Anish62027/End-to-End-Power-Bi-Dashboard-Project/blob/main/Weather%20Dashboard/WhatsApp%20Image%202025-06-24%20at%2019.47.19_d9d229d8.jpg?raw=true)
+
+
 ---
 
 Would you like a Markdown version you can copy directly for GitHub or a LinkedIn post template too?
