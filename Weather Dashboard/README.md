@@ -188,7 +188,13 @@ With just a few steps, you can build a **live weather dashboard** using Power BI
 ## 👨‍💻 Created by [Anish62027](https://github.com/Anish62027)
 
 Give this repo a ⭐ if you like it or want to fork and improve it!
-[WeatherAPI Docs](https://github.com/Anish62027/End-to-End-Power-Bi-Dashboard-Project/blob/main/Weather%20Dashboard/WhatsApp%20Image%202025-06-24%20at%2019.41.54_8bd15369.jpg)
+
+---
+
+## 📷 Dashboard Preview
+
+![Weather Dashboard Preview](https://github.com/Anish62027/End-to-End-Power-Bi-Dashboard-Project/blob/main/Weather%20Dashboard/WhatsApp%20Image%202025-06-24%20at%2019.41.54_8bd15369.jpg?raw=true)
+
 
 ```
 
