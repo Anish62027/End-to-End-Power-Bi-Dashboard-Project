@@ -12,6 +12,17 @@ WeatherAPI gives live, historical, and forecast weather data in **JSON format**,
 
 ---
 
+## 📌 Project Highlights
+
+✅ Real-time weather data from API  
+✅ Displays temperature, humidity, wind speed, and weather condition  
+✅ Shows AQI levels (pm2.5, co, no2, etc.)  
+✅ DAX-based AQI Status, Color Code, and Suggestions  
+✅ Filter for different cities  
+✅ User-friendly and dynamic design
+
+---
+
 ## 🧰 Requirements
 
 - Free or paid account at [WeatherAPI.com](https://www.weatherapi.com/)
@@ -169,10 +180,16 @@ With just a few steps, you can build a **live weather dashboard** using Power BI
 
 * [WeatherAPI Docs](https://www.weatherapi.com/docs/)
 * [Download Power BI](https://powerbi.microsoft.com/)
+* [Download Power BI Desktop](https://powerbi.microsoft.com/desktop)
+* [Microsoft Power BI Docs](https://learn.microsoft.com/en-us/power-bi/)
+
+```
+
+## 👨‍💻 Created by [Anish62027](https://github.com/Anish62027)
+
+Give this repo a ⭐ if you like it or want to fork and improve it!
+[WeatherAPI Docs](https://www.weatherapi.com/docs/)
 
 ```
 
 ---
-
-Let me know if you'd like me to create a sample `.pbix` file or generate icons/visuals for your GitHub repo!
-```
